@@ -19,7 +19,7 @@
       root
    </property>
    <property name="hibernate.connection.password">
-      yue642969318
+      123456
    </property>
    <property name="hibernate.jdbc.batch_size">50</property>
    <!-- List of XML mapping files -->
